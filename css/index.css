@@ -1,0 +1,74 @@
+.version.index /* version checker */
+{
+	color: #000005;
+	background-color: #C859F1;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/1.jpg") no-repeat center top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u84
+{
+	z-index: 3;
+	height: 544px;
+	width: 1092px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -118px;
+	left: -66px;
+	background: url("../images/u84.png") no-repeat 138px 138px;
+}
+
+#u84:hover
+{
+	background: url("../images/u84-r.png") no-repeat 0px 0px;
+}
+
+#u90-4
+{
+	z-index: 5;
+	width: 315px;
+	min-height: 33px;
+	background-color: transparent;
+	text-align: center;
+	color: #00B3E3;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-weight: bold;
+	margin-bottom: -36px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 503px;
+	left: 322px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -502px;
+}
+
